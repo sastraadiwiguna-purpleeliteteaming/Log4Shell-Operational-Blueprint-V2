@@ -1,3 +1,6 @@
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18278430-blue?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.18278430) = [doi.org/10.5281/zenodo.18278430](https://doi.org/10.5281/zenodo.18278430)
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--7728--256X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-7728-256X) = [orcid.org/0009-0007-7728-256X](https://orcid.org/0009-0007-7728-256X)
 
 ---
 
@@ -91,3 +94,4 @@ bash master_lab_setup.sh
 
 
 > *“Speed is sacrificed for top-tier deterministic quality. Precision is the absolute priority.”*
+
